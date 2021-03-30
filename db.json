@@ -1,0 +1,34 @@
+{
+  "company": [
+    {
+      "id": 1617089779035,
+      "name": "Gateway Technolabs",
+      "email": "gatewayinfo@gatewaycorp.com",
+      "address": "Bodekdev",
+      "totalEmployees": 850,
+      "totalBranch": 2,
+      "isActive": true
+    },
+    {
+      "id": 1617090859397,
+      "name": "JB Solutions",
+      "email": "jbsolution@gmail.com",
+      "address": "CG Road",
+      "totalEmployees": 35,
+      "totalBranch": 2,
+      "isActive": true,
+      "branch": [
+        {
+          "id": 1617090859402,
+          "name": "CG Road",
+          "address": "Ahmedabad"
+        },
+        {
+          "id": "",
+          "name": "Mira Road",
+          "address": "Mumbai"
+        }
+      ]
+    }
+  ]
+}
